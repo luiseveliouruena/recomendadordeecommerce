@@ -4,3 +4,7 @@ product_id,title,category,price,tags,description,image_url
 3,Zapatillas Running,Deportes,80.0,tendencia,Zapatillas ligeras para correr,https://picsum.photos/seed/3/300/300
 4,Libro de Python,Libros,30.0,popular,Aprende Python desde cero,https://picsum.photos/seed/4/300/300
 5,Cepillo Facial,Belleza,25.0,oferta,Cuidado de la piel diario,https://picsum.photos/seed/5/300/300
+6,cafe de la cascada por libras,libra por 500 gms,tostado y molido,grano fino,https://picsum.photos/seed/5/300/300
+7,cafe de la cascada por libras,libra de 500 gms,tostado sin moler,https://picsum.photos/seed/5/300/300
+8,cafe de la cascada,por libras,libra de 500 gms.tostado y molido,grano grueso,https://picsum.photos/seed/5/300/300
+9,cafe de la cascada,por libras,libra de 500 gms,tostado y molido,grano medio,https://picsum.photos/seed/5/300300
